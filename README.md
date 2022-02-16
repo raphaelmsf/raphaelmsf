@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @raphaelmsf
 - 👀 I’m interested in Back-end with Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on any place that put value on my work
-- 📫 How to reach me: rapha.ms2004@gmail.com or my phone +55(34)99891-2807
+- 📫 How to reach me: rapha.ms2004@gmail.com or my phone +55(34)9906-5497
 
 - 
 <!---
