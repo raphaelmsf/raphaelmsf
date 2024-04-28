@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @raphaelmsf
-- 👀 I’m interested in Back-end with Python
-- 🌱 I’m currently learning Java, and workin on a plate recognition System with Python
-- 💞️ I’m looking to collaborate on any place that put value on my work
-- 📫 How to reach me: rapha.ms2004@gmail.com or my phone +55(34)98407-3975
+ 👋 Olá! Meu nome é Raphael.
+ 
+  Tenho conhecimentos em:
+- Programação Orientada a Objetos e TDD com Python
+- Python para Desenvolvimento Web com Django
+- Pogramação orientada a Objetos com Java
 
-- 
+Atuamlmente estou estudando:
+- Desenvolvimento Web em Java com SpringBoot
+- Python para Data Science
+- Métodos ágeis
+
+Meus contatos:
+📧 rapha.ms2004@gmail.com
+📱 +55 (34)9 8407-3975
+  
 <!---
 raphaelmsf/raphaelmsf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
